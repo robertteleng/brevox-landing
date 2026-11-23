@@ -1,12 +1,12 @@
 # Brevox Landing
 
-Static site for Brevox, a private iPhone and Apple Watch voice-first notebook.
+Static site for Brevox, a private iPhone voice-first notebook.
 
 Primary site: https://brevox-landing.vercel.app/
 
 Transition mirror: https://robertteleng.github.io/brevox-landing/
 
-iOS + Apple Watch app repository: https://github.com/teleng-labs/brevox-ios
+iOS app repository: https://github.com/teleng-labs/brevox-ios
 
 ## Pages
 
